@@ -8,18 +8,25 @@ body {
 
 .Polar {
   float: left;
-  width: 400px; /* Set the width to your desired size */
-  height: 400px; /* Automatically adjust the height to maintain the aspect ratio */
-  margin-left: 30px;
+  width: 400px;
+  height: 400px; 
   margin-top: 50px;
+  
 }
 
 .Gorilla {
   float: right;
-  width: 400px; /* Set the width to your desired size */
-  height: 400px; /* Automatically adjust the height to maintain the aspect ratio */
+  width: 400px; 
+  height: 400px; 
   margin-left: 30;
   margin-bottom: 50;
   
 }
 
+.Lion {
+    position: absolute;
+    bottom: 40px; 
+    left: 43%;
+    
+    
+}
